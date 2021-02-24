@@ -1,0 +1,5656 @@
+[
+   {
+      "name":"Links Pocket",
+      "type":"Boss",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Queen Gohma",
+      "type":"Boss",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"King Dodongo",
+      "type":"Boss",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Barinade",
+      "type":"Boss",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Phantom Ganon",
+      "type":"Boss",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Volvagia",
+      "type":"Boss",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Morpha",
+      "type":"Boss",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Bongo Bongo",
+      "type":"Boss",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Twinrova",
+      "type":"Boss",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Ganon",
+      "type":"Event",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Song from Impa",
+      "type":"Song",
+      "categories":[
+         "Hyrule Castle",
+         "Market",
+         "Songs"
+      ]
+   },
+   {
+      "name":"Song from Malon",
+      "type":"Song",
+      "categories":[
+         "Lon Lon Ranch",
+         "Songs"
+      ]
+   },
+   {
+      "name":"Song from Saria",
+      "type":"Song",
+      "categories":[
+         "Sacred Forest Meadow",
+         "Forest",
+         "Songs"
+      ]
+   },
+   {
+      "name":"Song from Composers Grave",
+      "type":"Song",
+      "categories":[
+         "the Graveyard",
+         "Kakariko",
+         "Songs"
+      ]
+   },
+   {
+      "name":"Song from Ocarina of Time",
+      "type":"Song",
+      "categories":[
+         "Hyrule Field",
+         "Songs",
+         "Need Spiritual Stones"
+      ]
+   },
+   {
+      "name":"Song from Windmill",
+      "type":"Song",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Songs"
+      ]
+   },
+   {
+      "name":"Sheik in Forest",
+      "type":"Song",
+      "categories":[
+         "Sacred Forest Meadow",
+         "Forest",
+         "Songs"
+      ]
+   },
+   {
+      "name":"Sheik in Crater",
+      "type":"Song",
+      "categories":[
+         "Death Mountain Crater",
+         "Death Mountain",
+         "Songs"
+      ]
+   },
+   {
+      "name":"Sheik in Ice Cavern",
+      "type":"Song",
+      "categories":[
+         "Ice Cavern",
+         "Songs"
+      ]
+   },
+   {
+      "name":"Sheik at Colossus",
+      "type":"Song",
+      "categories":[
+         "Desert Colossus",
+         "Songs"
+      ]
+   },
+   {
+      "name":"Sheik in Kakariko",
+      "type":"Song",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Songs"
+      ]
+   },
+   {
+      "name":"Sheik at Temple",
+      "type":"Song",
+      "categories":[
+         "Temple of Time",
+         "Market",
+         "Songs"
+      ]
+   },
+   {
+      "name":"KF Midos Top Left Chest",
+      "type":"Chest",
+      "categories":[
+         "Kokiri Forest",
+         "Forest"
+      ]
+   },
+   {
+      "name":"KF Midos Top Right Chest",
+      "type":"Chest",
+      "categories":[
+         "Kokiri Forest",
+         "Forest"
+      ]
+   },
+   {
+      "name":"KF Midos Bottom Left Chest",
+      "type":"Chest",
+      "categories":[
+         "Kokiri Forest",
+         "Forest"
+      ]
+   },
+   {
+      "name":"KF Midos Bottom Right Chest",
+      "type":"Chest",
+      "categories":[
+         "Kokiri Forest",
+         "Forest"
+      ]
+   },
+   {
+      "name":"KF Kokiri Sword Chest",
+      "type":"Chest",
+      "categories":[
+         "Kokiri Forest",
+         "Forest"
+      ]
+   },
+   {
+      "name":"KF Storms Grotto Chest",
+      "type":"Chest",
+      "categories":[
+         "Kokiri Forest",
+         "Forest",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"KF Links House Cow",
+      "type":"NPC",
+      "categories":[
+         "KF Links House",
+         "Forest",
+         "Cow",
+         "Minigames"
+      ]
+   },
+   {
+      "name":"KF GS Know It All House",
+      "type":"GS Token",
+      "categories":[
+         "Kokiri Forest",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"KF GS Bean Patch",
+      "type":"GS Token",
+      "categories":[
+         "Kokiri Forest",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"KF GS House of Twins",
+      "type":"GS Token",
+      "categories":[
+         "Kokiri Forest",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"KF Shop Item 1",
+      "type":"Shop",
+      "categories":[
+         "Kokiri Forest",
+         "Forest",
+         "Shops"
+      ]
+   },
+   {
+      "name":"KF Shop Item 2",
+      "type":"Shop",
+      "categories":[
+         "Kokiri Forest",
+         "Forest",
+         "Shops"
+      ]
+   },
+   {
+      "name":"KF Shop Item 3",
+      "type":"Shop",
+      "categories":[
+         "Kokiri Forest",
+         "Forest",
+         "Shops"
+      ]
+   },
+   {
+      "name":"KF Shop Item 4",
+      "type":"Shop",
+      "categories":[
+         "Kokiri Forest",
+         "Forest",
+         "Shops"
+      ]
+   },
+   {
+      "name":"KF Shop Item 5",
+      "type":"Shop",
+      "categories":[
+         "Kokiri Forest",
+         "Forest",
+         "Shops"
+      ]
+   },
+   {
+      "name":"KF Shop Item 6",
+      "type":"Shop",
+      "categories":[
+         "Kokiri Forest",
+         "Forest",
+         "Shops"
+      ]
+   },
+   {
+      "name":"KF Shop Item 7",
+      "type":"Shop",
+      "categories":[
+         "Kokiri Forest",
+         "Forest",
+         "Shops"
+      ]
+   },
+   {
+      "name":"KF Shop Item 8",
+      "type":"Shop",
+      "categories":[
+         "Kokiri Forest",
+         "Forest",
+         "Shops"
+      ]
+   },
+   {
+      "name":"LW Gift from Saria",
+      "type":"Cutscene",
+      "categories":[
+         "the Lost Woods",
+         "Forest"
+      ]
+   },
+   {
+      "name":"LW Ocarina Memory Game",
+      "type":"NPC",
+      "categories":[
+         "the Lost Woods",
+         "Forest",
+         "Minigames"
+      ]
+   },
+   {
+      "name":"LW Target in Woods",
+      "type":"NPC",
+      "categories":[
+         "the Lost Woods",
+         "Forest"
+      ]
+   },
+   {
+      "name":"LW Near Shortcuts Grotto Chest",
+      "type":"Chest",
+      "categories":[
+         "the Lost Woods",
+         "Forest",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"Deku Theater Skull Mask",
+      "type":"NPC",
+      "categories":[
+         "the Lost Woods",
+         "Forest",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"Deku Theater Mask of Truth",
+      "type":"NPC",
+      "categories":[
+         "the Lost Woods",
+         "Forest",
+         "Need Spiritual Stones",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"LW Skull Kid",
+      "type":"NPC",
+      "categories":[
+         "the Lost Woods",
+         "Forest"
+      ]
+   },
+   {
+      "name":"LW Deku Scrub Near Bridge",
+      "type":"NPC",
+      "categories":[
+         "the Lost Woods",
+         "Forest",
+         "Deku Scrub",
+         "Deku Scrub Upgrades"
+      ]
+   },
+   {
+      "name":"LW Deku Scrub Near Deku Theater Left",
+      "type":"NPC",
+      "categories":[
+         "the Lost Woods",
+         "Forest",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"LW Deku Scrub Near Deku Theater Right",
+      "type":"NPC",
+      "categories":[
+         "the Lost Woods",
+         "Forest",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"LW Deku Scrub Grotto Front",
+      "type":"GrottoNPC",
+      "categories":[
+         "the Lost Woods",
+         "Forest",
+         "Deku Scrub",
+         "Deku Scrub Upgrades",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"LW Deku Scrub Grotto Rear",
+      "type":"GrottoNPC",
+      "categories":[
+         "the Lost Woods",
+         "Forest",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"LW GS Bean Patch Near Bridge",
+      "type":"GS Token",
+      "categories":[
+         "the Lost Woods",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"LW GS Bean Patch Near Theater",
+      "type":"GS Token",
+      "categories":[
+         "the Lost Woods",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"LW GS Above Theater",
+      "type":"GS Token",
+      "categories":[
+         "the Lost Woods",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"SFM Wolfos Grotto Chest",
+      "type":"Chest",
+      "categories":[
+         "Sacred Forest Meadow",
+         "Forest",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"SFM Deku Scrub Grotto Front",
+      "type":"GrottoNPC",
+      "categories":[
+         "Sacred Forest Meadow",
+         "Forest",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"SFM Deku Scrub Grotto Rear",
+      "type":"GrottoNPC",
+      "categories":[
+         "Sacred Forest Meadow",
+         "Forest",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"SFM GS",
+      "type":"GS Token",
+      "categories":[
+         "Sacred Forest Meadow",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"HF Ocarina of Time Item",
+      "type":"NPC",
+      "categories":[
+         "Hyrule Field",
+         "Need Spiritual Stones"
+      ]
+   },
+   {
+      "name":"HF Near Market Grotto Chest",
+      "type":"Chest",
+      "categories":[
+         "Hyrule Field",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"HF Tektite Grotto Freestanding PoH",
+      "type":"Collectable",
+      "categories":[
+         "Hyrule Field",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"HF Southeast Grotto Chest",
+      "type":"Chest",
+      "categories":[
+         "Hyrule Field",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"HF Open Grotto Chest",
+      "type":"Chest",
+      "categories":[
+         "Hyrule Field",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"HF Deku Scrub Grotto",
+      "type":"GrottoNPC",
+      "categories":[
+         "Hyrule Field",
+         "Deku Scrub",
+         "Deku Scrub Upgrades",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"HF Cow Grotto Cow",
+      "type":"NPC",
+      "categories":[
+         "Hyrule Field",
+         "Cow",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"HF GS Cow Grotto",
+      "type":"GS Token",
+      "categories":[
+         "Hyrule Field",
+         "Skulltulas",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"HF GS Near Kak Grotto",
+      "type":"GS Token",
+      "categories":[
+         "Hyrule Field",
+         "Skulltulas",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"Market Shooting Gallery Reward",
+      "type":"NPC",
+      "categories":[
+         "the Market",
+         "Market",
+         "Minigames"
+      ]
+   },
+   {
+      "name":"Market Bombchu Bowling First Prize",
+      "type":"NPC",
+      "categories":[
+         "the Market",
+         "Market",
+         "Minigames"
+      ]
+   },
+   {
+      "name":"Market Bombchu Bowling Second Prize",
+      "type":"NPC",
+      "categories":[
+         "the Market",
+         "Market",
+         "Minigames"
+      ]
+   },
+   {
+      "name":"Market Bombchu Bowling Bombchus",
+      "type":"NPC",
+      "categories":[
+         "the Market",
+         "Market",
+         "Minigames"
+      ]
+   },
+   {
+      "name":"Market Lost Dog",
+      "type":"NPC",
+      "categories":[
+         "the Market",
+         "Market"
+      ]
+   },
+   {
+      "name":"Market Treasure Chest Game Reward",
+      "type":"Chest",
+      "categories":[
+         "the Market",
+         "Market",
+         "Minigames"
+      ]
+   },
+   {
+      "name":"Market 10 Big Poes",
+      "type":"NPC",
+      "categories":[
+         "the Market",
+         "Hyrule Castle"
+      ]
+   },
+   {
+      "name":"Market GS Guard House",
+      "type":"GS Token",
+      "categories":[
+         "the Market",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Market Bazaar Item 1",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Bazaar Item 2",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Bazaar Item 3",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Bazaar Item 4",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Bazaar Item 5",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Bazaar Item 6",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Bazaar Item 7",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Bazaar Item 8",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Potion Shop Item 1",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Potion Shop Item 2",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Potion Shop Item 3",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Potion Shop Item 4",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Potion Shop Item 5",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Potion Shop Item 6",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Potion Shop Item 7",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Potion Shop Item 8",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Bombchu Shop Item 1",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Bombchu Shop Item 2",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Bombchu Shop Item 3",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Bombchu Shop Item 4",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Bombchu Shop Item 5",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Bombchu Shop Item 6",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Bombchu Shop Item 7",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Market Bombchu Shop Item 8",
+      "type":"Shop",
+      "categories":[
+         "the Market",
+         "Market",
+         "Shops"
+      ]
+   },
+   {
+      "name":"ToT Light Arrows Cutscene",
+      "type":"Cutscene",
+      "categories":[
+         "Temple of Time",
+         "Market"
+      ]
+   },
+   {
+      "name":"HC Malon Egg",
+      "type":"NPC",
+      "categories":[
+         "Hyrule Castle",
+         "Market"
+      ]
+   },
+   {
+      "name":"HC Zeldas Letter",
+      "type":"NPC",
+      "categories":[
+         "Hyrule Castle",
+         "Market"
+      ]
+   },
+   {
+      "name":"HC Great Fairy Reward",
+      "type":"Cutscene",
+      "categories":[
+         "Hyrule Castle",
+         "Market",
+         "Fairies"
+      ]
+   },
+   {
+      "name":"HC GS Tree",
+      "type":"GS Token",
+      "categories":[
+         "Hyrule Castle",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"HC GS Storms Grotto",
+      "type":"GS Token",
+      "categories":[
+         "Hyrule Castle",
+         "Skulltulas",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"LLR Talons Chickens",
+      "type":"NPC",
+      "categories":[
+         "Lon Lon Ranch",
+         "Kakariko",
+         "Minigames"
+      ]
+   },
+   {
+      "name":"LLR Freestanding PoH",
+      "type":"Collectable",
+      "categories":[
+         "Lon Lon Ranch"
+      ]
+   },
+   {
+      "name":"LLR Deku Scrub Grotto Left",
+      "type":"GrottoNPC",
+      "categories":[
+         "Lon Lon Ranch",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"LLR Deku Scrub Grotto Center",
+      "type":"GrottoNPC",
+      "categories":[
+         "Lon Lon Ranch",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"LLR Deku Scrub Grotto Right",
+      "type":"GrottoNPC",
+      "categories":[
+         "Lon Lon Ranch",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"LLR Stables Left Cow",
+      "type":"NPC",
+      "categories":[
+         "Lon Lon Ranch",
+         "Cow"
+      ]
+   },
+   {
+      "name":"LLR Stables Right Cow",
+      "type":"NPC",
+      "categories":[
+         "Lon Lon Ranch",
+         "Cow"
+      ]
+   },
+   {
+      "name":"LLR Tower Left Cow",
+      "type":"NPC",
+      "categories":[
+         "Lon Lon Ranch",
+         "Cow"
+      ]
+   },
+   {
+      "name":"LLR Tower Right Cow",
+      "type":"NPC",
+      "categories":[
+         "Lon Lon Ranch",
+         "Cow"
+      ]
+   },
+   {
+      "name":"LLR GS House Window",
+      "type":"GS Token",
+      "categories":[
+         "Lon Lon Ranch",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"LLR GS Tree",
+      "type":"GS Token",
+      "categories":[
+         "Lon Lon Ranch",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"LLR GS Rain Shed",
+      "type":"GS Token",
+      "categories":[
+         "Lon Lon Ranch",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"LLR GS Back Wall",
+      "type":"GS Token",
+      "categories":[
+         "Lon Lon Ranch",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Kak Anju as Child",
+      "type":"NPC",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Minigames"
+      ]
+   },
+   {
+      "name":"Kak Anju as Adult",
+      "type":"NPC",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko"
+      ]
+   },
+   {
+      "name":"Kak Impas House Freestanding PoH",
+      "type":"Collectable",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko"
+      ]
+   },
+   {
+      "name":"Kak Windmill Freestanding PoH",
+      "type":"Collectable",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko"
+      ]
+   },
+   {
+      "name":"Kak Man on Roof",
+      "type":"NPC",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko"
+      ]
+   },
+   {
+      "name":"Kak Open Grotto Chest",
+      "type":"Chest",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"Kak Redead Grotto Chest",
+      "type":"Chest",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"Kak Shooting Gallery Reward",
+      "type":"NPC",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Minigames"
+      ]
+   },
+   {
+      "name":"Kak 10 Gold Skulltula Reward",
+      "type":"NPC",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Skulltula House"
+      ]
+   },
+   {
+      "name":"Kak 20 Gold Skulltula Reward",
+      "type":"NPC",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Skulltula House"
+      ]
+   },
+   {
+      "name":"Kak 30 Gold Skulltula Reward",
+      "type":"NPC",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Skulltula House"
+      ]
+   },
+   {
+      "name":"Kak 40 Gold Skulltula Reward",
+      "type":"NPC",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Skulltula House"
+      ]
+   },
+   {
+      "name":"Kak 50 Gold Skulltula Reward",
+      "type":"NPC",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Skulltula House"
+      ]
+   },
+   {
+      "name":"Kak Impas House Cow",
+      "type":"NPC",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Cow"
+      ]
+   },
+   {
+      "name":"Kak GS Tree",
+      "type":"GS Token",
+      "categories":[
+         "Kakariko Village",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Kak GS Guards House",
+      "type":"GS Token",
+      "categories":[
+         "Kakariko Village",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Kak GS Watchtower",
+      "type":"GS Token",
+      "categories":[
+         "Kakariko Village",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Kak GS Skulltula House",
+      "type":"GS Token",
+      "categories":[
+         "Kakariko Village",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Kak GS House Under Construction",
+      "type":"GS Token",
+      "categories":[
+         "Kakariko Village",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Kak GS Above Impas House",
+      "type":"GS Token",
+      "categories":[
+         "Kakariko Village",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Kak Bazaar Item 1",
+      "type":"Shop",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Kak Bazaar Item 2",
+      "type":"Shop",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Kak Bazaar Item 3",
+      "type":"Shop",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Kak Bazaar Item 4",
+      "type":"Shop",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Kak Bazaar Item 5",
+      "type":"Shop",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Kak Bazaar Item 6",
+      "type":"Shop",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Kak Bazaar Item 7",
+      "type":"Shop",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Kak Bazaar Item 8",
+      "type":"Shop",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Kak Potion Shop Item 1",
+      "type":"Shop",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Kak Potion Shop Item 2",
+      "type":"Shop",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Kak Potion Shop Item 3",
+      "type":"Shop",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Kak Potion Shop Item 4",
+      "type":"Shop",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Kak Potion Shop Item 5",
+      "type":"Shop",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Kak Potion Shop Item 6",
+      "type":"Shop",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Kak Potion Shop Item 7",
+      "type":"Shop",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Kak Potion Shop Item 8",
+      "type":"Shop",
+      "categories":[
+         "Kakariko Village",
+         "Kakariko",
+         "Shops"
+      ]
+   },
+   {
+      "name":"Graveyard Shield Grave Chest",
+      "type":"Chest",
+      "categories":[
+         "the Graveyard",
+         "Kakariko"
+      ]
+   },
+   {
+      "name":"Graveyard Heart Piece Grave Chest",
+      "type":"Chest",
+      "categories":[
+         "the Graveyard",
+         "Kakariko"
+      ]
+   },
+   {
+      "name":"Graveyard Composers Grave Chest",
+      "type":"Chest",
+      "categories":[
+         "the Graveyard",
+         "Kakariko"
+      ]
+   },
+   {
+      "name":"Graveyard Freestanding PoH",
+      "type":"Collectable",
+      "categories":[
+         "the Graveyard",
+         "Kakariko"
+      ]
+   },
+   {
+      "name":"Graveyard Dampe Gravedigging Tour",
+      "type":"Collectable",
+      "categories":[
+         "the Graveyard",
+         "Kakariko"
+      ]
+   },
+   {
+      "name":"Graveyard Hookshot Chest",
+      "type":"Chest",
+      "categories":[
+         "the Graveyard",
+         "Kakariko"
+      ]
+   },
+   {
+      "name":"Graveyard Dampe Race Freestanding PoH",
+      "type":"Collectable",
+      "categories":[
+         "the Graveyard",
+         "Kakariko",
+         "Minigames"
+      ]
+   },
+   {
+      "name":"Graveyard GS Bean Patch",
+      "type":"GS Token",
+      "categories":[
+         "the Graveyard",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Graveyard GS Wall",
+      "type":"GS Token",
+      "categories":[
+         "the Graveyard",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"DMT Freestanding PoH",
+      "type":"Collectable",
+      "categories":[
+         "Death Mountain Trail",
+         "Death Mountain"
+      ]
+   },
+   {
+      "name":"DMT Chest",
+      "type":"Chest",
+      "categories":[
+         "Death Mountain Trail",
+         "Death Mountain"
+      ]
+   },
+   {
+      "name":"DMT Storms Grotto Chest",
+      "type":"Chest",
+      "categories":[
+         "Death Mountain Trail",
+         "Death Mountain",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"DMT Great Fairy Reward",
+      "type":"Cutscene",
+      "categories":[
+         "Death Mountain Trail",
+         "Death Mountain",
+         "Fairies"
+      ]
+   },
+   {
+      "name":"DMT Biggoron",
+      "type":"NPC",
+      "categories":[
+         "Death Mountain Trail",
+         "Death Mountain"
+      ]
+   },
+   {
+      "name":"DMT Cow Grotto Cow",
+      "type":"NPC",
+      "categories":[
+         "Death Mountain Trail",
+         "Death Mountain",
+         "Cow",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"DMT GS Near Kak",
+      "type":"GS Token",
+      "categories":[
+         "Death Mountain Trail",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"DMT GS Bean Patch",
+      "type":"GS Token",
+      "categories":[
+         "Death Mountain Trail",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"DMT GS Above Dodongos Cavern",
+      "type":"GS Token",
+      "categories":[
+         "Death Mountain Trail",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"DMT GS Falling Rocks Path",
+      "type":"GS Token",
+      "categories":[
+         "Death Mountain Trail",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"GC Darunias Joy",
+      "type":"NPC",
+      "categories":[
+         "Goron City"
+      ]
+   },
+   {
+      "name":"GC Pot Freestanding PoH",
+      "type":"Collectable",
+      "categories":[
+         "Goron City",
+         "Goron City"
+      ]
+   },
+   {
+      "name":"GC Rolling Goron as Child",
+      "type":"NPC",
+      "categories":[
+         "Goron City"
+      ]
+   },
+   {
+      "name":"GC Rolling Goron as Adult",
+      "type":"NPC",
+      "categories":[
+         "Goron City"
+      ]
+   },
+   {
+      "name":"GC Medigoron",
+      "type":"NPC",
+      "categories":[
+         "Goron City"
+      ]
+   },
+   {
+      "name":"GC Maze Left Chest",
+      "type":"Chest",
+      "categories":[
+         "Goron City"
+      ]
+   },
+   {
+      "name":"GC Maze Right Chest",
+      "type":"Chest",
+      "categories":[
+         "Goron City"
+      ]
+   },
+   {
+      "name":"GC Maze Center Chest",
+      "type":"Chest",
+      "categories":[
+         "Goron City"
+      ]
+   },
+   {
+      "name":"GC Deku Scrub Grotto Left",
+      "type":"GrottoNPC",
+      "categories":[
+         "Goron City",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"GC Deku Scrub Grotto Center",
+      "type":"GrottoNPC",
+      "categories":[
+         "Goron City",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"GC Deku Scrub Grotto Right",
+      "type":"GrottoNPC",
+      "categories":[
+         "Goron City",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"GC GS Center Platform",
+      "type":"GS Token",
+      "categories":[
+         "Goron City",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"GC GS Boulder Maze",
+      "type":"GS Token",
+      "categories":[
+         "Goron City",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"GC Shop Item 1",
+      "type":"Shop",
+      "categories":[
+         "Goron City",
+         "Shops"
+      ]
+   },
+   {
+      "name":"GC Shop Item 2",
+      "type":"Shop",
+      "categories":[
+         "Goron City",
+         "Shops"
+      ]
+   },
+   {
+      "name":"GC Shop Item 3",
+      "type":"Shop",
+      "categories":[
+         "Goron City",
+         "Shops"
+      ]
+   },
+   {
+      "name":"GC Shop Item 4",
+      "type":"Shop",
+      "categories":[
+         "Goron City",
+         "Shops"
+      ]
+   },
+   {
+      "name":"GC Shop Item 5",
+      "type":"Shop",
+      "categories":[
+         "Goron City",
+         "Shops"
+      ]
+   },
+   {
+      "name":"GC Shop Item 6",
+      "type":"Shop",
+      "categories":[
+         "Goron City",
+         "Shops"
+      ]
+   },
+   {
+      "name":"GC Shop Item 7",
+      "type":"Shop",
+      "categories":[
+         "Goron City",
+         "Shops"
+      ]
+   },
+   {
+      "name":"GC Shop Item 8",
+      "type":"Shop",
+      "categories":[
+         "Goron City",
+         "Shops"
+      ]
+   },
+   {
+      "name":"DMC Volcano Freestanding PoH",
+      "type":"Collectable",
+      "categories":[
+         "Death Mountain Crater",
+         "Death Mountain"
+      ]
+   },
+   {
+      "name":"DMC Wall Freestanding PoH",
+      "type":"Collectable",
+      "categories":[
+         "Death Mountain Crater",
+         "Death Mountain"
+      ]
+   },
+   {
+      "name":"DMC Upper Grotto Chest",
+      "type":"Chest",
+      "categories":[
+         "Death Mountain Crater",
+         "Death Mountain",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"DMC Great Fairy Reward",
+      "type":"Cutscene",
+      "categories":[
+         "Death Mountain Crater",
+         "Death Mountain",
+         "Fairies"
+      ]
+   },
+   {
+      "name":"DMC Deku Scrub",
+      "type":"NPC",
+      "categories":[
+         "Death Mountain Crater",
+         "Death Mountain",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"DMC Deku Scrub Grotto Left",
+      "type":"GrottoNPC",
+      "categories":[
+         "Death Mountain Crater",
+         "Death Mountain",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"DMC Deku Scrub Grotto Center",
+      "type":"GrottoNPC",
+      "categories":[
+         "Death Mountain Crater",
+         "Death Mountain",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"DMC Deku Scrub Grotto Right",
+      "type":"GrottoNPC",
+      "categories":[
+         "Death Mountain Crater",
+         "Death Mountain",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"DMC GS Crate",
+      "type":"GS Token",
+      "categories":[
+         "Death Mountain Crater",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"DMC GS Bean Patch",
+      "type":"GS Token",
+      "categories":[
+         "Death Mountain Crater",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"ZR Magic Bean Salesman",
+      "type":"NPC",
+      "categories":[
+         "Zora's River"
+      ]
+   },
+   {
+      "name":"ZR Open Grotto Chest",
+      "type":"Chest",
+      "categories":[
+         "Zora's River",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"ZR Frogs in the Rain",
+      "type":"NPC",
+      "categories":[
+         "Zora's River",
+         "Minigames"
+      ]
+   },
+   {
+      "name":"ZR Frogs Ocarina Game",
+      "type":"NPC",
+      "categories":[
+         "Zora's River"
+      ]
+   },
+   {
+      "name":"ZR Near Open Grotto Freestanding PoH",
+      "type":"Collectable",
+      "categories":[
+         "Zora's River"
+      ]
+   },
+   {
+      "name":"ZR Near Domain Freestanding PoH",
+      "type":"Collectable",
+      "categories":[
+         "Zora's River"
+      ]
+   },
+   {
+      "name":"ZR Deku Scrub Grotto Front",
+      "type":"GrottoNPC",
+      "categories":[
+         "Zora's River",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"ZR Deku Scrub Grotto Rear",
+      "type":"GrottoNPC",
+      "categories":[
+         "Zora's River",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"ZR GS Tree",
+      "type":"GS Token",
+      "categories":[
+         "Zora's River",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"ZR GS Ladder",
+      "type":"GS Token",
+      "categories":[
+         "Zora's River",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"ZR GS Near Raised Grottos",
+      "type":"GS Token",
+      "categories":[
+         "Zora's River",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"ZR GS Above Bridge",
+      "type":"GS Token",
+      "categories":[
+         "Zora's River",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"ZD Diving Minigame",
+      "type":"NPC",
+      "categories":[
+         "Zora's Domain",
+         "Minigames"
+      ]
+   },
+   {
+      "name":"ZD Chest",
+      "type":"Chest",
+      "categories":[
+         "Zora's Domain"
+      ]
+   },
+   {
+      "name":"ZD King Zora Thawed",
+      "type":"NPC",
+      "categories":[
+         "Zora's Domain"
+      ]
+   },
+   {
+      "name":"ZD GS Frozen Waterfall",
+      "type":"GS Token",
+      "categories":[
+         "Zora's Domain",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"ZD Shop Item 1",
+      "type":"Shop",
+      "categories":[
+         "Zora's Domain",
+         "Shops"
+      ]
+   },
+   {
+      "name":"ZD Shop Item 2",
+      "type":"Shop",
+      "categories":[
+         "Zora's Domain",
+         "Shops"
+      ]
+   },
+   {
+      "name":"ZD Shop Item 3",
+      "type":"Shop",
+      "categories":[
+         "Zora's Domain",
+         "Shops"
+      ]
+   },
+   {
+      "name":"ZD Shop Item 4",
+      "type":"Shop",
+      "categories":[
+         "Zora's Domain",
+         "Shops"
+      ]
+   },
+   {
+      "name":"ZD Shop Item 5",
+      "type":"Shop",
+      "categories":[
+         "Zora's Domain",
+         "Shops"
+      ]
+   },
+   {
+      "name":"ZD Shop Item 6",
+      "type":"Shop",
+      "categories":[
+         "Zora's Domain",
+         "Shops"
+      ]
+   },
+   {
+      "name":"ZD Shop Item 7",
+      "type":"Shop",
+      "categories":[
+         "Zora's Domain",
+         "Shops"
+      ]
+   },
+   {
+      "name":"ZD Shop Item 8",
+      "type":"Shop",
+      "categories":[
+         "Zora's Domain",
+         "Shops"
+      ]
+   },
+   {
+      "name":"ZF Great Fairy Reward",
+      "type":"Cutscene",
+      "categories":[
+         "Zora's Fountain",
+         "Fairies"
+      ]
+   },
+   {
+      "name":"ZF Iceberg Freestanding PoH",
+      "type":"Collectable",
+      "categories":[
+         "Zora's Fountain"
+      ]
+   },
+   {
+      "name":"ZF Bottom Freestanding PoH",
+      "type":"Collectable",
+      "categories":[
+         "Zora's Fountain"
+      ]
+   },
+   {
+      "name":"ZF GS Above the Log",
+      "type":"GS Token",
+      "categories":[
+         "Zora's Fountain",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"ZF GS Tree",
+      "type":"GS Token",
+      "categories":[
+         "Zora's Fountain",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"ZF GS Hidden Cave",
+      "type":"GS Token",
+      "categories":[
+         "Zora's Fountain",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"LH Underwater Item",
+      "type":"NPC",
+      "categories":[
+         "Lake Hylia"
+      ]
+   },
+   {
+      "name":"LH Child Fishing",
+      "type":"NPC",
+      "categories":[
+         "Lake Hylia",
+         "Minigames"
+      ]
+   },
+   {
+      "name":"LH Adult Fishing",
+      "type":"NPC",
+      "categories":[
+         "Lake Hylia",
+         "Minigames"
+      ]
+   },
+   {
+      "name":"LH Lab Dive",
+      "type":"NPC",
+      "categories":[
+         "Lake Hylia"
+      ]
+   },
+   {
+      "name":"LH Freestanding PoH",
+      "type":"Collectable",
+      "categories":[
+         "Lake Hylia"
+      ]
+   },
+   {
+      "name":"LH Sun",
+      "type":"NPC",
+      "categories":[
+         "Lake Hylia"
+      ]
+   },
+   {
+      "name":"LH Deku Scrub Grotto Left",
+      "type":"GrottoNPC",
+      "categories":[
+         "Lake Hylia",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"LH Deku Scrub Grotto Center",
+      "type":"GrottoNPC",
+      "categories":[
+         "Lake Hylia",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"LH Deku Scrub Grotto Right",
+      "type":"GrottoNPC",
+      "categories":[
+         "Lake Hylia",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"LH GS Bean Patch",
+      "type":"GS Token",
+      "categories":[
+         "Lake Hylia",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"LH GS Lab Wall",
+      "type":"GS Token",
+      "categories":[
+         "Lake Hylia",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"LH GS Small Island",
+      "type":"GS Token",
+      "categories":[
+         "Lake Hylia",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"LH GS Lab Crate",
+      "type":"GS Token",
+      "categories":[
+         "Lake Hylia",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"LH GS Tree",
+      "type":"GS Token",
+      "categories":[
+         "Lake Hylia",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"GV Crate Freestanding PoH",
+      "type":"Collectable",
+      "categories":[
+         "Gerudo Valley",
+         "Gerudo"
+      ]
+   },
+   {
+      "name":"GV Waterfall Freestanding PoH",
+      "type":"Collectable",
+      "categories":[
+         "Gerudo Valley",
+         "Gerudo"
+      ]
+   },
+   {
+      "name":"GV Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Valley",
+         "Gerudo"
+      ]
+   },
+   {
+      "name":"GV Deku Scrub Grotto Front",
+      "type":"GrottoNPC",
+      "categories":[
+         "Gerudo Valley",
+         "Gerudo",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"GV Deku Scrub Grotto Rear",
+      "type":"GrottoNPC",
+      "categories":[
+         "Gerudo Valley",
+         "Gerudo",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"GV Cow",
+      "type":"NPC",
+      "categories":[
+         "Gerudo Valley",
+         "Gerudo",
+         "Cow"
+      ]
+   },
+   {
+      "name":"GV GS Small Bridge",
+      "type":"GS Token",
+      "categories":[
+         "Gerudo Valley",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"GV GS Bean Patch",
+      "type":"GS Token",
+      "categories":[
+         "Gerudo Valley",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"GV GS Behind Tent",
+      "type":"GS Token",
+      "categories":[
+         "Gerudo Valley",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"GV GS Pillar",
+      "type":"GS Token",
+      "categories":[
+         "Gerudo Valley",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"GF North F1 Carpenter",
+      "type":"Collectable",
+      "categories":[
+         "Gerudo's Fortress",
+         "Gerudo"
+      ]
+   },
+   {
+      "name":"GF North F2 Carpenter",
+      "type":"Collectable",
+      "categories":[
+         "Gerudo's Fortress",
+         "Gerudo"
+      ]
+   },
+   {
+      "name":"GF South F1 Carpenter",
+      "type":"Collectable",
+      "categories":[
+         "Gerudo's Fortress",
+         "Gerudo"
+      ]
+   },
+   {
+      "name":"GF South F2 Carpenter",
+      "type":"Collectable",
+      "categories":[
+         "Gerudo's Fortress",
+         "Gerudo"
+      ]
+   },
+   {
+      "name":"GF Gerudo Membership Card",
+      "type":"NPC",
+      "categories":[
+         "Gerudo's Fortress",
+         "Gerudo"
+      ]
+   },
+   {
+      "name":"GF Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo's Fortress",
+         "Gerudo"
+      ]
+   },
+   {
+      "name":"GF HBA 1000 Points",
+      "type":"NPC",
+      "categories":[
+         "Gerudo's Fortress",
+         "Gerudo",
+         "Minigames"
+      ]
+   },
+   {
+      "name":"GF HBA 1500 Points",
+      "type":"NPC",
+      "categories":[
+         "Gerudo's Fortress",
+         "Gerudo",
+         "Minigames"
+      ]
+   },
+   {
+      "name":"GF GS Top Floor",
+      "type":"GS Token",
+      "categories":[
+         "Gerudo's Fortress",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"GF GS Archery Range",
+      "type":"GS Token",
+      "categories":[
+         "Gerudo's Fortress",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Wasteland Bombchu Salesman",
+      "type":"NPC",
+      "categories":[
+         "Haunted Wasteland"
+      ]
+   },
+   {
+      "name":"Wasteland Chest",
+      "type":"Chest",
+      "categories":[
+         "Haunted Wasteland"
+      ]
+   },
+   {
+      "name":"Wasteland GS",
+      "type":"GS Token",
+      "categories":[
+         "Haunted Wasteland",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Colossus Great Fairy Reward",
+      "type":"Cutscene",
+      "categories":[
+         "Desert Colossus",
+         "Fairies"
+      ]
+   },
+   {
+      "name":"Colossus Freestanding PoH",
+      "type":"Collectable",
+      "categories":[
+         "Desert Colossus"
+      ]
+   },
+   {
+      "name":"Colossus Deku Scrub Grotto Front",
+      "type":"GrottoNPC",
+      "categories":[
+         "Desert Colossus",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"Colossus Deku Scrub Grotto Rear",
+      "type":"GrottoNPC",
+      "categories":[
+         "Desert Colossus",
+         "Deku Scrub",
+         "Grottos"
+      ]
+   },
+   {
+      "name":"Colossus GS Bean Patch",
+      "type":"GS Token",
+      "categories":[
+         "Desert Colossus",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Colossus GS Tree",
+      "type":"GS Token",
+      "categories":[
+         "Desert Colossus",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Colossus GS Hill",
+      "type":"GS Token",
+      "categories":[
+         "Desert Colossus",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"OGC Great Fairy Reward",
+      "type":"Cutscene",
+      "categories":[
+         "outside Ganon's Castle",
+         "Market",
+         "Fairies"
+      ]
+   },
+   {
+      "name":"OGC GS",
+      "type":"GS Token",
+      "categories":[
+         "outside Ganon's Castle",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Deku Tree Map Chest",
+      "type":"Chest",
+      "categories":[
+         "Deku Tree"
+      ]
+   },
+   {
+      "name":"Deku Tree Slingshot Room Side Chest",
+      "type":"Chest",
+      "categories":[
+         "Deku Tree"
+      ]
+   },
+   {
+      "name":"Deku Tree Slingshot Chest",
+      "type":"Chest",
+      "categories":[
+         "Deku Tree"
+      ]
+   },
+   {
+      "name":"Deku Tree Compass Chest",
+      "type":"Chest",
+      "categories":[
+         "Deku Tree"
+      ]
+   },
+   {
+      "name":"Deku Tree Compass Room Side Chest",
+      "type":"Chest",
+      "categories":[
+         "Deku Tree"
+      ]
+   },
+   {
+      "name":"Deku Tree Basement Chest",
+      "type":"Chest",
+      "categories":[
+         "Deku Tree"
+      ]
+   },
+   {
+      "name":"Deku Tree GS Compass Room",
+      "type":"GS Token",
+      "categories":[
+         "Deku Tree",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Deku Tree GS Basement Vines",
+      "type":"GS Token",
+      "categories":[
+         "Deku Tree",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Deku Tree GS Basement Gate",
+      "type":"GS Token",
+      "categories":[
+         "Deku Tree",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Deku Tree GS Basement Back Room",
+      "type":"GS Token",
+      "categories":[
+         "Deku Tree",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Deku Tree MQ Map Chest",
+      "type":"Chest",
+      "categories":[
+         "Deku Tree"
+      ]
+   },
+   {
+      "name":"Deku Tree MQ Slingshot Chest",
+      "type":"Chest",
+      "categories":[
+         "Deku Tree"
+      ]
+   },
+   {
+      "name":"Deku Tree MQ Slingshot Room Back Chest",
+      "type":"Chest",
+      "categories":[
+         "Deku Tree"
+      ]
+   },
+   {
+      "name":"Deku Tree MQ Compass Chest",
+      "type":"Chest",
+      "categories":[
+         "Deku Tree"
+      ]
+   },
+   {
+      "name":"Deku Tree MQ Basement Chest",
+      "type":"Chest",
+      "categories":[
+         "Deku Tree"
+      ]
+   },
+   {
+      "name":"Deku Tree MQ Before Spinning Log Chest",
+      "type":"Chest",
+      "categories":[
+         "Deku Tree"
+      ]
+   },
+   {
+      "name":"Deku Tree MQ After Spinning Log Chest",
+      "type":"Chest",
+      "categories":[
+         "Deku Tree"
+      ]
+   },
+   {
+      "name":"Deku Tree MQ Deku Scrub",
+      "type":"NPC",
+      "categories":[
+         "Deku Tree",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"Deku Tree MQ GS Lobby",
+      "type":"GS Token",
+      "categories":[
+         "Deku Tree",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Deku Tree MQ GS Compass Room",
+      "type":"GS Token",
+      "categories":[
+         "Deku Tree",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Deku Tree MQ GS Basement Graves Room",
+      "type":"GS Token",
+      "categories":[
+         "Deku Tree",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Deku Tree MQ GS Basement Back Room",
+      "type":"GS Token",
+      "categories":[
+         "Deku Tree",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Deku Tree Queen Gohma Heart",
+      "type":"BossHeart",
+      "categories":[
+         "Deku Tree"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern Map Chest",
+      "type":"Chest",
+      "categories":[
+         "Dodongo's Cavern"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern Compass Chest",
+      "type":"Chest",
+      "categories":[
+         "Dodongo's Cavern"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern Bomb Flower Platform Chest",
+      "type":"Chest",
+      "categories":[
+         "Dodongo's Cavern"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern Bomb Bag Chest",
+      "type":"Chest",
+      "categories":[
+         "Dodongo's Cavern"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern End of Bridge Chest",
+      "type":"Chest",
+      "categories":[
+         "Dodongo's Cavern"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern Deku Scrub Side Room Near Dodongos",
+      "type":"NPC",
+      "categories":[
+         "Dodongo's Cavern",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern Deku Scrub Lobby",
+      "type":"NPC",
+      "categories":[
+         "Dodongo's Cavern",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern Deku Scrub Near Bomb Bag Left",
+      "type":"NPC",
+      "categories":[
+         "Dodongo's Cavern",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern Deku Scrub Near Bomb Bag Right",
+      "type":"NPC",
+      "categories":[
+         "Dodongo's Cavern",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern GS Side Room Near Lower Lizalfos",
+      "type":"GS Token",
+      "categories":[
+         "Dodongo's Cavern",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern GS Scarecrow",
+      "type":"GS Token",
+      "categories":[
+         "Dodongo's Cavern",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern GS Alcove Above Stairs",
+      "type":"GS Token",
+      "categories":[
+         "Dodongo's Cavern",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern GS Vines Above Stairs",
+      "type":"GS Token",
+      "categories":[
+         "Dodongo's Cavern",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern GS Back Room",
+      "type":"GS Token",
+      "categories":[
+         "Dodongo's Cavern",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern MQ Map Chest",
+      "type":"Chest",
+      "categories":[
+         "Dodongo's Cavern"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern MQ Bomb Bag Chest",
+      "type":"Chest",
+      "categories":[
+         "Dodongo's Cavern"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern MQ Torch Puzzle Room Chest",
+      "type":"Chest",
+      "categories":[
+         "Dodongo's Cavern"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern MQ Larvae Room Chest",
+      "type":"Chest",
+      "categories":[
+         "Dodongo's Cavern"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern MQ Compass Chest",
+      "type":"Chest",
+      "categories":[
+         "Dodongo's Cavern"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern MQ Under Grave Chest",
+      "type":"Chest",
+      "categories":[
+         "Dodongo's Cavern"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern MQ Deku Scrub Lobby Front",
+      "type":"NPC",
+      "categories":[
+         "Dodongo's Cavern",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern MQ Deku Scrub Lobby Rear",
+      "type":"NPC",
+      "categories":[
+         "Dodongo's Cavern",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern MQ Deku Scrub Side Room Near Lower Lizalfos",
+      "type":"NPC",
+      "categories":[
+         "Dodongo's Cavern",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern MQ Deku Scrub Staircase",
+      "type":"NPC",
+      "categories":[
+         "Dodongo's Cavern",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern MQ GS Scrub Room",
+      "type":"GS Token",
+      "categories":[
+         "Dodongo's Cavern",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern MQ GS Larvae Room",
+      "type":"GS Token",
+      "categories":[
+         "Dodongo's Cavern",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern MQ GS Lizalfos Room",
+      "type":"GS Token",
+      "categories":[
+         "Dodongo's Cavern",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern MQ GS Song of Time Block Room",
+      "type":"GS Token",
+      "categories":[
+         "Dodongo's Cavern",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern MQ GS Back Area",
+      "type":"GS Token",
+      "categories":[
+         "Dodongo's Cavern",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern Boss Room Chest",
+      "type":"Chest",
+      "categories":[
+         "Dodongo's Cavern"
+      ]
+   },
+   {
+      "name":"Dodongos Cavern King Dodongo Heart",
+      "type":"BossHeart",
+      "categories":[
+         "Dodongo's Cavern"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly Boomerang Chest",
+      "type":"Chest",
+      "categories":[
+         "Jabu Jabu's Belly"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly Map Chest",
+      "type":"Chest",
+      "categories":[
+         "Jabu Jabu's Belly"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly Compass Chest",
+      "type":"Chest",
+      "categories":[
+         "Jabu Jabu's Belly"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly Deku Scrub",
+      "type":"NPC",
+      "categories":[
+         "Jabu Jabu's Belly",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly GS Water Switch Room",
+      "type":"GS Token",
+      "categories":[
+         "Jabu Jabu's Belly",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly GS Lobby Basement Lower",
+      "type":"GS Token",
+      "categories":[
+         "Jabu Jabu's Belly",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly GS Lobby Basement Upper",
+      "type":"GS Token",
+      "categories":[
+         "Jabu Jabu's Belly",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly GS Near Boss",
+      "type":"GS Token",
+      "categories":[
+         "Jabu Jabu's Belly",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly MQ Map Chest",
+      "type":"Chest",
+      "categories":[
+         "Jabu Jabu's Belly"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly MQ First Room Side Chest",
+      "type":"Chest",
+      "categories":[
+         "Jabu Jabu's Belly"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly MQ Second Room Lower Chest",
+      "type":"Chest",
+      "categories":[
+         "Jabu Jabu's Belly"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly MQ Compass Chest",
+      "type":"Chest",
+      "categories":[
+         "Jabu Jabu's Belly"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly MQ Basement Near Switches Chest",
+      "type":"Chest",
+      "categories":[
+         "Jabu Jabu's Belly"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly MQ Basement Near Vines Chest",
+      "type":"Chest",
+      "categories":[
+         "Jabu Jabu's Belly"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly MQ Boomerang Room Small Chest",
+      "type":"Chest",
+      "categories":[
+         "Jabu Jabu's Belly"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly MQ Boomerang Chest",
+      "type":"Chest",
+      "categories":[
+         "Jabu Jabu's Belly"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly MQ Falling Like Like Room Chest",
+      "type":"Chest",
+      "categories":[
+         "Jabu Jabu's Belly"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly MQ Second Room Upper Chest",
+      "type":"Chest",
+      "categories":[
+         "Jabu Jabu's Belly"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly MQ Near Boss Chest",
+      "type":"Chest",
+      "categories":[
+         "Jabu Jabu's Belly"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly MQ Cow",
+      "type":"NPC",
+      "categories":[
+         "Jabu Jabu's Belly",
+         "Cow"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly MQ GS Boomerang Chest Room",
+      "type":"GS Token",
+      "categories":[
+         "Jabu Jabu's Belly",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly MQ GS Tailpasaran Room",
+      "type":"GS Token",
+      "categories":[
+         "Jabu Jabu's Belly",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly MQ GS Invisible Enemies Room",
+      "type":"GS Token",
+      "categories":[
+         "Jabu Jabu's Belly",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly MQ GS Near Boss",
+      "type":"GS Token",
+      "categories":[
+         "Jabu Jabu's Belly",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Jabu Jabus Belly Barinade Heart",
+      "type":"BossHeart",
+      "categories":[
+         "Jabu Jabu's Belly"
+      ]
+   },
+   {
+      "name":"Bottom of the Well Front Left Fake Wall Chest",
+      "type":"Chest",
+      "categories":[
+         "Bottom of the Well"
+      ]
+   },
+   {
+      "name":"Bottom of the Well Front Center Bombable Chest",
+      "type":"Chest",
+      "categories":[
+         "Bottom of the Well"
+      ]
+   },
+   {
+      "name":"Bottom of the Well Back Left Bombable Chest",
+      "type":"Chest",
+      "categories":[
+         "Bottom of the Well"
+      ]
+   },
+   {
+      "name":"Bottom of the Well Underwater Left Chest",
+      "type":"Chest",
+      "categories":[
+         "Bottom of the Well"
+      ]
+   },
+   {
+      "name":"Bottom of the Well Freestanding Key",
+      "type":"Collectable",
+      "categories":[
+         "Bottom of the Well"
+      ]
+   },
+   {
+      "name":"Bottom of the Well Compass Chest",
+      "type":"Chest",
+      "categories":[
+         "Bottom of the Well"
+      ]
+   },
+   {
+      "name":"Bottom of the Well Center Skulltula Chest",
+      "type":"Chest",
+      "categories":[
+         "Bottom of the Well"
+      ]
+   },
+   {
+      "name":"Bottom of the Well Right Bottom Fake Wall Chest",
+      "type":"Chest",
+      "categories":[
+         "Bottom of the Well"
+      ]
+   },
+   {
+      "name":"Bottom of the Well Fire Keese Chest",
+      "type":"Chest",
+      "categories":[
+         "Bottom of the Well"
+      ]
+   },
+   {
+      "name":"Bottom of the Well Like Like Chest",
+      "type":"Chest",
+      "categories":[
+         "Bottom of the Well"
+      ]
+   },
+   {
+      "name":"Bottom of the Well Map Chest",
+      "type":"Chest",
+      "categories":[
+         "Bottom of the Well"
+      ]
+   },
+   {
+      "name":"Bottom of the Well Underwater Front Chest",
+      "type":"Chest",
+      "categories":[
+         "Bottom of the Well"
+      ]
+   },
+   {
+      "name":"Bottom of the Well Invisible Chest",
+      "type":"Chest",
+      "categories":[
+         "Bottom of the Well"
+      ]
+   },
+   {
+      "name":"Bottom of the Well Lens of Truth Chest",
+      "type":"Chest",
+      "categories":[
+         "Bottom of the Well"
+      ]
+   },
+   {
+      "name":"Bottom of the Well GS West Inner Room",
+      "type":"GS Token",
+      "categories":[
+         "Bottom of the Well",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Bottom of the Well GS East Inner Room",
+      "type":"GS Token",
+      "categories":[
+         "Bottom of the Well",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Bottom of the Well GS Like Like Cage",
+      "type":"GS Token",
+      "categories":[
+         "Bottom of the Well",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Bottom of the Well MQ Map Chest",
+      "type":"Chest",
+      "categories":[
+         "Bottom of the Well"
+      ]
+   },
+   {
+      "name":"Bottom of the Well MQ East Inner Room Freestanding Key",
+      "type":"Collectable",
+      "categories":[
+         "Bottom of the Well"
+      ]
+   },
+   {
+      "name":"Bottom of the Well MQ Compass Chest",
+      "type":"Chest",
+      "categories":[
+         "Bottom of the Well"
+      ]
+   },
+   {
+      "name":"Bottom of the Well MQ Dead Hand Freestanding Key",
+      "type":"Collectable",
+      "categories":[
+         "Bottom of the Well"
+      ]
+   },
+   {
+      "name":"Bottom of the Well MQ Lens of Truth Chest",
+      "type":"Chest",
+      "categories":[
+         "Bottom of the Well"
+      ]
+   },
+   {
+      "name":"Bottom of the Well MQ GS Coffin Room",
+      "type":"GS Token",
+      "categories":[
+         "Bottom of the Well",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Bottom of the Well MQ GS West Inner Room",
+      "type":"GS Token",
+      "categories":[
+         "Bottom of the Well",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Bottom of the Well MQ GS Basement",
+      "type":"GS Token",
+      "categories":[
+         "Bottom of the Well",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Forest Temple First Room Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple First Stalfos Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple Raised Island Courtyard Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple Map Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple Well Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple Eye Switch Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple Boss Key Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple Floormaster Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple Red Poe Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple Bow Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple Blue Poe Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple Falling Ceiling Room Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple Basement Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple GS First Room",
+      "type":"GS Token",
+      "categories":[
+         "Forest Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Forest Temple GS Lobby",
+      "type":"GS Token",
+      "categories":[
+         "Forest Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Forest Temple GS Raised Island Courtyard",
+      "type":"GS Token",
+      "categories":[
+         "Forest Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Forest Temple GS Level Island Courtyard",
+      "type":"GS Token",
+      "categories":[
+         "Forest Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Forest Temple GS Basement",
+      "type":"GS Token",
+      "categories":[
+         "Forest Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Forest Temple MQ First Room Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple MQ Wolfos Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple MQ Well Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple MQ Raised Island Courtyard Lower Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple MQ Raised Island Courtyard Upper Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple MQ Boss Key Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple MQ Redead Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple MQ Map Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple MQ Bow Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple MQ Compass Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple MQ Falling Ceiling Room Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple MQ Basement Chest",
+      "type":"Chest",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Forest Temple MQ GS First Hallway",
+      "type":"GS Token",
+      "categories":[
+         "Forest Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Forest Temple MQ GS Raised Island Courtyard",
+      "type":"GS Token",
+      "categories":[
+         "Forest Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Forest Temple MQ GS Level Island Courtyard",
+      "type":"GS Token",
+      "categories":[
+         "Forest Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Forest Temple MQ GS Well",
+      "type":"GS Token",
+      "categories":[
+         "Forest Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Forest Temple MQ GS Block Push Room",
+      "type":"GS Token",
+      "categories":[
+         "Forest Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Forest Temple Phantom Ganon Heart",
+      "type":"BossHeart",
+      "categories":[
+         "Forest Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple Near Boss Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple Flare Dancer Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple Boss Key Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple Big Lava Room Lower Open Door Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple Big Lava Room Blocked Door Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple Boulder Maze Lower Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple Boulder Maze Side Room Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple Map Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple Boulder Maze Shortcut Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple Boulder Maze Upper Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple Scarecrow Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple Compass Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple Megaton Hammer Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple Highest Goron Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple GS Boss Key Loop",
+      "type":"GS Token",
+      "categories":[
+         "Fire Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Fire Temple GS Song of Time Room",
+      "type":"GS Token",
+      "categories":[
+         "Fire Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Fire Temple GS Boulder Maze",
+      "type":"GS Token",
+      "categories":[
+         "Fire Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Fire Temple GS Scarecrow Climb",
+      "type":"GS Token",
+      "categories":[
+         "Fire Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Fire Temple GS Scarecrow Top",
+      "type":"GS Token",
+      "categories":[
+         "Fire Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Fire Temple MQ Map Room Side Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple MQ Megaton Hammer Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple MQ Map Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple MQ Near Boss Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple MQ Big Lava Room Blocked Door Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple MQ Boss Key Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple MQ Lizalfos Maze Side Room Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple MQ Compass Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple MQ Lizalfos Maze Upper Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple MQ Lizalfos Maze Lower Chest",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple MQ Freestanding Key",
+      "type":"Collectable",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple MQ Chest On Fire",
+      "type":"Chest",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Fire Temple MQ GS Big Lava Room Open Door",
+      "type":"GS Token",
+      "categories":[
+         "Fire Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Fire Temple MQ GS Skull On Fire",
+      "type":"GS Token",
+      "categories":[
+         "Fire Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Fire Temple MQ GS Fire Wall Maze Center",
+      "type":"GS Token",
+      "categories":[
+         "Fire Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Fire Temple MQ GS Fire Wall Maze Side Room",
+      "type":"GS Token",
+      "categories":[
+         "Fire Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Fire Temple MQ GS Above Fire Wall Maze",
+      "type":"GS Token",
+      "categories":[
+         "Fire Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Fire Temple Volvagia Heart",
+      "type":"BossHeart",
+      "categories":[
+         "Fire Temple"
+      ]
+   },
+   {
+      "name":"Water Temple Compass Chest",
+      "type":"Chest",
+      "categories":[
+         "Water Temple"
+      ]
+   },
+   {
+      "name":"Water Temple Map Chest",
+      "type":"Chest",
+      "categories":[
+         "Water Temple"
+      ]
+   },
+   {
+      "name":"Water Temple Cracked Wall Chest",
+      "type":"Chest",
+      "categories":[
+         "Water Temple"
+      ]
+   },
+   {
+      "name":"Water Temple Torches Chest",
+      "type":"Chest",
+      "categories":[
+         "Water Temple"
+      ]
+   },
+   {
+      "name":"Water Temple Boss Key Chest",
+      "type":"Chest",
+      "categories":[
+         "Water Temple"
+      ]
+   },
+   {
+      "name":"Water Temple Central Pillar Chest",
+      "type":"Chest",
+      "categories":[
+         "Water Temple"
+      ]
+   },
+   {
+      "name":"Water Temple Central Bow Target Chest",
+      "type":"Chest",
+      "categories":[
+         "Water Temple"
+      ]
+   },
+   {
+      "name":"Water Temple Longshot Chest",
+      "type":"Chest",
+      "categories":[
+         "Water Temple"
+      ]
+   },
+   {
+      "name":"Water Temple River Chest",
+      "type":"Chest",
+      "categories":[
+         "Water Temple"
+      ]
+   },
+   {
+      "name":"Water Temple Dragon Chest",
+      "type":"Chest",
+      "categories":[
+         "Water Temple"
+      ]
+   },
+   {
+      "name":"Water Temple GS Behind Gate",
+      "type":"GS Token",
+      "categories":[
+         "Water Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Water Temple GS Near Boss Key Chest",
+      "type":"GS Token",
+      "categories":[
+         "Water Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Water Temple GS Central Pillar",
+      "type":"GS Token",
+      "categories":[
+         "Water Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Water Temple GS Falling Platform Room",
+      "type":"GS Token",
+      "categories":[
+         "Water Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Water Temple GS River",
+      "type":"GS Token",
+      "categories":[
+         "Water Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Water Temple MQ Longshot Chest",
+      "type":"Chest",
+      "categories":[
+         "Water Temple"
+      ]
+   },
+   {
+      "name":"Water Temple MQ Map Chest",
+      "type":"Chest",
+      "categories":[
+         "Water Temple"
+      ]
+   },
+   {
+      "name":"Water Temple MQ Compass Chest",
+      "type":"Chest",
+      "categories":[
+         "Water Temple"
+      ]
+   },
+   {
+      "name":"Water Temple MQ Central Pillar Chest",
+      "type":"Chest",
+      "categories":[
+         "Water Temple"
+      ]
+   },
+   {
+      "name":"Water Temple MQ Boss Key Chest",
+      "type":"Chest",
+      "categories":[
+         "Water Temple"
+      ]
+   },
+   {
+      "name":"Water Temple MQ Freestanding Key",
+      "type":"Collectable",
+      "categories":[
+         "Water Temple"
+      ]
+   },
+   {
+      "name":"Water Temple MQ GS Lizalfos Hallway",
+      "type":"GS Token",
+      "categories":[
+         "Water Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Water Temple MQ GS Before Upper Water Switch",
+      "type":"GS Token",
+      "categories":[
+         "Water Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Water Temple MQ GS River",
+      "type":"GS Token",
+      "categories":[
+         "Water Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Water Temple MQ GS Freestanding Key Area",
+      "type":"GS Token",
+      "categories":[
+         "Water Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Water Temple MQ GS Triple Wall Torch",
+      "type":"GS Token",
+      "categories":[
+         "Water Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Water Temple Morpha Heart",
+      "type":"BossHeart",
+      "categories":[
+         "Water Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple Map Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple Hover Boots Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple Compass Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple Early Silver Rupee Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple Invisible Blades Visible Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple Invisible Blades Invisible Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple Falling Spikes Lower Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple Falling Spikes Upper Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple Falling Spikes Switch Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple Invisible Spikes Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple Freestanding Key",
+      "type":"Collectable",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple Wind Hint Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple After Wind Enemy Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple After Wind Hidden Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple Spike Walls Left Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple Boss Key Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple Invisible Floormaster Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple GS Like Like Room",
+      "type":"GS Token",
+      "categories":[
+         "Shadow Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Shadow Temple GS Falling Spikes Room",
+      "type":"GS Token",
+      "categories":[
+         "Shadow Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Shadow Temple GS Single Giant Pot",
+      "type":"GS Token",
+      "categories":[
+         "Shadow Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Shadow Temple GS Near Ship",
+      "type":"GS Token",
+      "categories":[
+         "Shadow Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Shadow Temple GS Triple Giant Pot",
+      "type":"GS Token",
+      "categories":[
+         "Shadow Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ Early Gibdos Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ Map Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ Near Ship Invisible Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ Compass Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ Hover Boots Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ Invisible Blades Invisible Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ Invisible Blades Visible Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ Beamos Silver Rupees Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ Falling Spikes Lower Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ Falling Spikes Upper Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ Falling Spikes Switch Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ Invisible Spikes Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ Stalfos Room Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ Wind Hint Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ After Wind Hidden Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ After Wind Enemy Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ Boss Key Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ Spike Walls Left Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ Freestanding Key",
+      "type":"Collectable",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ Bomb Flower Chest",
+      "type":"Chest",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ GS Falling Spikes Room",
+      "type":"GS Token",
+      "categories":[
+         "Shadow Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ GS Wind Hint Room",
+      "type":"GS Token",
+      "categories":[
+         "Shadow Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ GS After Wind",
+      "type":"GS Token",
+      "categories":[
+         "Shadow Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ GS After Ship",
+      "type":"GS Token",
+      "categories":[
+         "Shadow Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Shadow Temple MQ GS Near Boss",
+      "type":"GS Token",
+      "categories":[
+         "Shadow Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Shadow Temple Bongo Bongo Heart",
+      "type":"BossHeart",
+      "categories":[
+         "Shadow Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple Child Bridge Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple Child Early Torches Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple Child Climb North Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple Child Climb East Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple Map Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple Sun Block Room Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ Entrance Front Left Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ Entrance Back Right Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ Entrance Front Right Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ Entrance Back Left Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ Map Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ Map Room Enemy Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ Child Climb North Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ Child Climb South Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ Compass Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ Silver Block Hallway Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ Sun Block Room Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple Silver Gauntlets Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple",
+         "Desert Colossus"
+      ]
+   },
+   {
+      "name":"Spirit Temple Compass Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple Early Adult Right Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple First Mirror Left Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple First Mirror Right Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple Statue Room Northeast Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple Statue Room Hand Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple Near Four Armos Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple Hallway Right Invisible Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple Hallway Left Invisible Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ Child Hammer Switch Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ Statue Room Lullaby Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ Statue Room Invisible Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ Leever Room Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ Symphony Room Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ Beamos Room Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ Chest Switch Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ Boss Key Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple Mirror Shield Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple",
+         "Desert Colossus"
+      ]
+   },
+   {
+      "name":"Spirit Temple Boss Key Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple Topmost Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ Mirror Puzzle Invisible Chest",
+      "type":"Chest",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Spirit Temple GS Metal Fence",
+      "type":"GS Token",
+      "categories":[
+         "Spirit Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Spirit Temple GS Sun on Floor Room",
+      "type":"GS Token",
+      "categories":[
+         "Spirit Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Spirit Temple GS Hall After Sun Block Room",
+      "type":"GS Token",
+      "categories":[
+         "Spirit Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Spirit Temple GS Lobby",
+      "type":"GS Token",
+      "categories":[
+         "Spirit Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Spirit Temple GS Boulder Room",
+      "type":"GS Token",
+      "categories":[
+         "Spirit Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ GS Sun Block Room",
+      "type":"GS Token",
+      "categories":[
+         "Spirit Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ GS Leever Room",
+      "type":"GS Token",
+      "categories":[
+         "Spirit Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ GS Symphony Room",
+      "type":"GS Token",
+      "categories":[
+         "Spirit Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ GS Nine Thrones Room West",
+      "type":"GS Token",
+      "categories":[
+         "Spirit Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Spirit Temple MQ GS Nine Thrones Room North",
+      "type":"GS Token",
+      "categories":[
+         "Spirit Temple",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Spirit Temple Twinrova Heart",
+      "type":"BossHeart",
+      "categories":[
+         "Spirit Temple"
+      ]
+   },
+   {
+      "name":"Ice Cavern Map Chest",
+      "type":"Chest",
+      "categories":[
+         "Ice Cavern"
+      ]
+   },
+   {
+      "name":"Ice Cavern Compass Chest",
+      "type":"Chest",
+      "categories":[
+         "Ice Cavern"
+      ]
+   },
+   {
+      "name":"Ice Cavern Freestanding PoH",
+      "type":"Collectable",
+      "categories":[
+         "Ice Cavern"
+      ]
+   },
+   {
+      "name":"Ice Cavern Iron Boots Chest",
+      "type":"Chest",
+      "categories":[
+         "Ice Cavern"
+      ]
+   },
+   {
+      "name":"Ice Cavern GS Spinning Scythe Room",
+      "type":"GS Token",
+      "categories":[
+         "Ice Cavern",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Ice Cavern GS Heart Piece Room",
+      "type":"GS Token",
+      "categories":[
+         "Ice Cavern",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Ice Cavern GS Push Block Room",
+      "type":"GS Token",
+      "categories":[
+         "Ice Cavern",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Ice Cavern MQ Map Chest",
+      "type":"Chest",
+      "categories":[
+         "Ice Cavern"
+      ]
+   },
+   {
+      "name":"Ice Cavern MQ Compass Chest",
+      "type":"Chest",
+      "categories":[
+         "Ice Cavern"
+      ]
+   },
+   {
+      "name":"Ice Cavern MQ Freestanding PoH",
+      "type":"Collectable",
+      "categories":[
+         "Ice Cavern"
+      ]
+   },
+   {
+      "name":"Ice Cavern MQ Iron Boots Chest",
+      "type":"Chest",
+      "categories":[
+         "Ice Cavern"
+      ]
+   },
+   {
+      "name":"Ice Cavern MQ GS Red Ice",
+      "type":"GS Token",
+      "categories":[
+         "Ice Cavern",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Ice Cavern MQ GS Ice Block",
+      "type":"GS Token",
+      "categories":[
+         "Ice Cavern",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Ice Cavern MQ GS Scarecrow",
+      "type":"GS Token",
+      "categories":[
+         "Ice Cavern",
+         "Skulltulas"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Lobby Left Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Lobby Right Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Stalfos Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Before Heavy Block Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Heavy Block First Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Heavy Block Second Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Heavy Block Third Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Heavy Block Fourth Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Eye Statue Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Near Scarecrow Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Hammer Room Clear Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Hammer Room Switch Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Freestanding Key",
+      "type":"Collectable",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Maze Right Central Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Maze Right Side Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Underwater Silver Rupee Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Beamos Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Hidden Ceiling Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Maze Path First Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Maze Path Second Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Maze Path Third Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds Maze Path Final Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds MQ Lobby Left Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds MQ Lobby Right Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds MQ First Iron Knuckle Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds MQ Before Heavy Block Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds MQ Heavy Block Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds MQ Eye Statue Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds MQ Ice Arrows Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds MQ Second Iron Knuckle Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds MQ Flame Circle Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds MQ Maze Right Central Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds MQ Maze Right Side Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds MQ Underwater Silver Rupee Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds MQ Dinolfos Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds MQ Hidden Ceiling Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds MQ Maze Path First Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds MQ Maze Path Third Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Gerudo Training Grounds MQ Maze Path Second Chest",
+      "type":"Chest",
+      "categories":[
+         "Gerudo Training Grounds"
+      ]
+   },
+   {
+      "name":"Ganons Castle Forest Trial Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle Water Trial Left Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle Water Trial Right Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle Shadow Trial Front Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle Shadow Trial Golden Gauntlets Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle Light Trial First Left Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle Light Trial Second Left Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle Light Trial Third Left Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle Light Trial First Right Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle Light Trial Second Right Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle Light Trial Third Right Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle Light Trial Invisible Enemies Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle Light Trial Lullaby Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle Spirit Trial Crystal Switch Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle Spirit Trial Invisible Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle Deku Scrub Left",
+      "type":"NPC",
+      "categories":[
+         "Ganon's Castle",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"Ganons Castle Deku Scrub Center-Left",
+      "type":"NPC",
+      "categories":[
+         "Ganon's Castle",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"Ganons Castle Deku Scrub Center-Right",
+      "type":"NPC",
+      "categories":[
+         "Ganon's Castle",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"Ganons Castle Deku Scrub Right",
+      "type":"NPC",
+      "categories":[
+         "Ganon's Castle",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"Ganons Castle MQ Forest Trial Freestanding Key",
+      "type":"Collectable",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle MQ Forest Trial Eye Switch Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle MQ Forest Trial Frozen Eye Switch Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle MQ Water Trial Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle MQ Shadow Trial Bomb Flower Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle MQ Shadow Trial Eye Switch Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle MQ Light Trial Lullaby Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle MQ Spirit Trial First Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle MQ Spirit Trial Invisible Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle MQ Spirit Trial Sun Front Left Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle MQ Spirit Trial Sun Back Left Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle MQ Spirit Trial Sun Back Right Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle MQ Spirit Trial Golden Gauntlets Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Ganons Castle MQ Deku Scrub Left",
+      "type":"NPC",
+      "categories":[
+         "Ganon's Castle",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"Ganons Castle MQ Deku Scrub Center-Left",
+      "type":"NPC",
+      "categories":[
+         "Ganon's Castle",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"Ganons Castle MQ Deku Scrub Center",
+      "type":"NPC",
+      "categories":[
+         "Ganon's Castle",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"Ganons Castle MQ Deku Scrub Center-Right",
+      "type":"NPC",
+      "categories":[
+         "Ganon's Castle",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"Ganons Castle MQ Deku Scrub Right",
+      "type":"NPC",
+      "categories":[
+         "Ganon's Castle",
+         "Deku Scrub"
+      ]
+   },
+   {
+      "name":"Ganons Tower Boss Key Chest",
+      "type":"Chest",
+      "categories":[
+         "Ganon's Castle"
+      ]
+   },
+   {
+      "name":"Pierre",
+      "type":"Event",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Deliver Rutos Letter",
+      "type":"Event",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Master Sword Pedestal",
+      "type":"Event",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Deku Baba Sticks",
+      "type":"Drop",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Deku Baba Nuts",
+      "type":"Drop",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Stick Pot",
+      "type":"Drop",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Nut Pot",
+      "type":"Drop",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Nut Crate",
+      "type":"Drop",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Blue Fire",
+      "type":"Drop",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Lone Fish",
+      "type":"Drop",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Fish Group",
+      "type":"Drop",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Bug Rock",
+      "type":"Drop",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Bug Shrub",
+      "type":"Drop",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Wandering Bugs",
+      "type":"Drop",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Fairy Pot",
+      "type":"Drop",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Free Fairies",
+      "type":"Drop",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Wall Fairy",
+      "type":"Drop",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Butterfly Fairy",
+      "type":"Drop",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Gossip Stone Fairy",
+      "type":"Drop",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Bean Plant Fairy",
+      "type":"Drop",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Fairy Pond",
+      "type":"Drop",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Big Poe Kill",
+      "type":"Drop",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"DMC Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"DMT Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Colossus Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Dodongos Cavern Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"GV Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"GC Maze Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"GC Medigoron Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Graveyard Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"HC Malon Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"HC Rock Wall Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"HC Storms Grotto Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"HF Cow Grotto Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"KF Deku Tree Gossip Stone (Left)",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"KF Deku Tree Gossip Stone (Right)",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"KF Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"LH Lab Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"LH Gossip Stone (Southeast)",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"LH Gossip Stone (Southwest)",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"LW Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"SFM Maze Gossip Stone (Lower)",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"SFM Maze Gossip Stone (Upper)",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"SFM Saria Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"ToT Gossip Stone (Left)",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"ToT Gossip Stone (Left-Center)",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"ToT Gossip Stone (Right)",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"ToT Gossip Stone (Right-Center)",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"ZD Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"ZF Fairy Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"ZF Jabu Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"ZR Near Grottos Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"ZR Near Domain Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"HF Near Market Grotto Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"HF Southeast Grotto Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"HF Open Grotto Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Kak Open Grotto Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"ZR Open Grotto Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"KF Storms Grotto Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"LW Near Shortcuts Grotto Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"DMT Storms Grotto Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"DMC Upper Grotto Gossip Stone",
+      "type":"HintStone",
+      "categories":[
+         
+      ]
+   },
+   {
+      "name":"Ganondorf Hint",
+      "type":"Hint",
+      "categories":[
+         
+      ]
+   }
+]

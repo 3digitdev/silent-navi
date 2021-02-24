@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="Description" content="A ZOOTR (Zelda Ocarina Of Time Randomizer) Tracker Webapp">
+    <title>Silent Navi</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <div id="root">
+    </div>
+    <script src="./zootr.js"></script>
+    <script type="text/javascript">
+        var app = Elm.Main.init({
+            node: document.getElementById("root")
+        });
+    </script>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="/__/firebase/7.6.0/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+         https://firebase.google.com/docs/web/setup#available-libraries -->
+
+    <!-- Initialize Firebase -->
+    <script src="/__/firebase/init.js"></script>
+</body>
+</html>
