@@ -110,12 +110,12 @@ canPlayLight itemTracker =
 
 hasHookshot : ItemTracker -> Bool
 hasHookshot itemTracker =
-    itemTracker.hookshot /= TZero
+    itemTracker.hookshot /= TZero && (itemTracker |> canBeAdult)
 
 
 hasLongshot : ItemTracker -> Bool
 hasLongshot itemTracker =
-    itemTracker.hookshot == TTwo
+    itemTracker.hookshot == TTwo && (itemTracker |> canBeAdult)
 
 
 hasSilverScale : ItemTracker -> Bool
@@ -154,7 +154,7 @@ hasGiantWallet itemTracker =
 
 hasBow : ItemTracker -> Bool
 hasBow itemTracker =
-    itemTracker.bow /= QZero
+    itemTracker.bow /= QZero && (itemTracker |> canBeAdult)
 
 
 hasBombs : ItemTracker -> Bool
@@ -203,14 +203,14 @@ canBeAdult itemTracker =
 
 hasGoronTunic : ItemTracker -> Bool
 hasGoronTunic itemTracker =
-    itemTracker.goronTunic
-        || ((itemTracker |> canBeAdult) && (itemTracker |> hasAdultWallet))
+    (itemTracker |> canBeAdult)
+        && (itemTracker.goronTunic || (itemTracker |> hasAdultWallet))
 
 
 hasZoraTunic : ItemTracker -> Bool
 hasZoraTunic itemTracker =
-    itemTracker.zoraTunic
-        || ((itemTracker |> canBeAdult) && (itemTracker |> hasGiantWallet))
+    (itemTracker |> canBeAdult)
+        && (itemTracker.zoraTunic || (itemTracker |> hasGiantWallet))
 
 
 hasBottle : ItemTracker -> Bool
@@ -226,7 +226,7 @@ hasExplosives itemTracker =
 
 canBlastOrSmash : ItemTracker -> Bool
 canBlastOrSmash itemTracker =
-    itemTracker.hammer
+    (itemTracker |> hasHammer)
         || (itemTracker |> hasExplosives)
 
 
@@ -382,3 +382,18 @@ canFinishGerudoFortress itemTracker =
                 && ((itemTracker |> hasBow) || (itemTracker |> hasHookshot) || itemTracker.hoverBoots)
            )
         || itemTracker.gerudoMembership
+
+
+canGetFromFarAway : ItemTracker -> Bool
+canGetFromFarAway itemTracker =
+    (itemTracker |> hasHookshot) || itemTracker.boomerang
+
+
+hasHammer : ItemTracker -> Bool
+hasHammer itemTracker =
+    (itemTracker |> canBeAdult) && itemTracker.hammer
+
+
+hasHoverBoots : ItemTracker -> Bool
+hasHoverBoots itemTracker =
+    (itemTracker |> canBeAdult) && itemTracker.hoverBoots
